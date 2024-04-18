@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'changa';
+    src: url(Fonts/Changa-VariableFont_wght.ttf);
+}
+header p{
+    font-family: "changa";
+}
+:root {
+    --laranja-gamers: #cf5c37;
+    --azul-gamers: #1481ba;
+    --cinza-gamers: #34312d;
+}
+
