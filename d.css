@@ -10,4 +10,8 @@ header p{
     --azul-gamers: #1481ba;
     --cinza-gamers: #34312d;
 }
+html {
+    scroll-behavior: smooth;
+}
+
 
