@@ -1,4 +1,0 @@
-git add .
-git status -> tudo verdinho
-git commit -m "comentario"
-git push 

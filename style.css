@@ -1,0 +1,152 @@
+@font-face {
+    font-family: 'changa';
+    src: url(Fonts/Changa-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'kdam';
+    src: url(Fonts/Alumni_Sans/AlumniSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Alumni';
+    src: url(Fonts/Alumni_Sans/static/AlumniSans-Bold.ttf);
+}
+
+
+* {
+
+    padding: 0;
+    margin: 0;
+
+}
+
+
+:root {
+    --laranja-gamers: #cf5c36;
+    --azul-gamers: #1481ba;
+    --cinza-gamers: #34312d;
+}
+
+.banner img {
+
+    width: 100%;
+
+}
+
+.container-grid {
+
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+
+    display: flex;
+    font-family: "kdam";
+    justify-content: space-between;
+    text-decoration: underline transparent;
+    width: 80%;
+    align-items: center;
+    font-size: 30px;
+}
+
+.menu a {
+
+    text-decoration: underline transparent;
+    color: black;
+
+}
+
+.cases {
+
+    
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    margin-top: 100px;
+
+}
+
+.cases img {
+
+    width: 30%;
+    height: 60%;
+
+
+}
+
+#sobre {
+
+    display: flex;
+    font-family: "kdam";
+    justify-content: center;
+    flex-direction: column;
+    font-size: 35px;
+    
+
+}
+
+#sobre .sobre-start {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px
+
+}
+
+.sobre-start a button{
+
+    width: 250px;
+    height: 50px;
+    border-radius: 35px;
+    border: none;
+    background-color: rgba(133, 189, 255, 1);
+    font-size: 35px;
+    font-family: 'Alumni';
+
+}
+
+#sobre .exploracao {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 80px;
+    gap: 30px
+
+}
+
+#sobre .exploracao .textao {
+
+    width: 80%;
+
+}
+
+#sobre .cotacao {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 300px;
+    font-family: "alumni";
+    font-size: 50px;
+}
+
+#sobre .info {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 380px;
+    font-family: "alumni";
+
+}
