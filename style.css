@@ -29,8 +29,9 @@
 }
 
 .banner img {
-
+    display: flex;
     width: 100%;
+    
 
 }
 
@@ -77,6 +78,7 @@
     height: 400%;
     object-fit: contain;
     width: auto;
+
 
 
 }
@@ -330,3 +332,126 @@ textarea{
     bottom: 137px;
 }
 
+@media screen and (max-width: 1200px) {
+
+.cases img {
+    width: 380%;
+    height: 380%;
+    object-fit: contain;
+    width: auto;
+}
+
+#sobre {
+
+    display: flex;
+    font-family: "kdam";
+    justify-content: center;
+    flex-direction: column;
+    font-size: 20px;
+
+}
+
+}
+
+@media screen and (max-width: 1177px) {
+
+    #sobre h2 {
+
+        display: flex;
+        font-family: "kdam";
+        justify-content: center;
+        flex-direction: column;
+        font-size: 30px;
+        width: 480px;
+    
+    }
+
+    .cases img {
+        width: 355%;
+        height: 355%;
+        object-fit: contain;
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width: 1162px) {
+
+    .cases img {
+        width: 350%;
+        height: 350%;
+        object-fit: contain;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+
+    .cases img {
+        width: 325%;
+        height: 325%;
+        object-fit: contain;
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width: 1030px) {
+    
+    .cases img {
+        width: 300%;
+        height: 300%;
+        object-fit: contain;
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width: 1093px) {
+
+    .cases img {
+        width: 340%;
+        height: 340%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    #portifolio h2 {
+
+        width: 80%;
+
+    }
+
+}
+
+@media screen and (max-width: 1092px) {
+
+    #portt h2 {
+
+        width: 80%;
+
+    }
+
+}
+
+@media screen and (max-width: 1058px) {
+
+    .cases img {
+        width: 320%;
+        height: 320%;
+        object-fit: contain;
+        width: auto;
+    }
+
+
+}
+
+@media screen and (max-width: 1058px) {
+
+    #exploracao img {
+
+        width: 80%;
+
+    }
+
+}

@@ -1,0 +1,21 @@
+ <div class="card">
+                <img src="https://unsplash.it/600/400" alt="">
+                <p>Reduzimos o desperdício de comida em uma escola em 80%</p>
+                <button>Ver mais</button>
+            </div>
+
+            <div class="card">
+                <img src="https://unsplash.it/600/400" alt="">
+                <p>Reduzimos o desperdício de comida em uma escola em 80%</p>
+                <button>Ver mais</button>
+            </div>
+            <div class="card">
+                <img src="https://unsplash.it/600/400" alt="">
+                <p>Reduzimos o desperdício de comida em uma escola em 80%</p>
+                <button>Ver mais</button>
+            </div>
+            <div class="card">
+                <img src="https://unsplash.it/600/400" alt="">
+                <p>Reduzimos o desperdício de comida em uma escola em 80%</p>
+                <button>Ver mais</button>
+            </div>
