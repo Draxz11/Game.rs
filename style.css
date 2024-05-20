@@ -350,6 +350,13 @@ textarea{
     font-size: 20px;
 
 }
+.cnhredes {
+    text-align: center;
+}
+
+.redes {
+margin: 0 auto;
+}
 
 }
 
@@ -367,12 +374,22 @@ textarea{
     }
 
     .cases img {
-        width: 355%;
-        height: 355%;
+        width: 365%;
+        height: 365%;
         object-fit: contain;
         width: auto;
     }
 
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1162px) {
@@ -383,6 +400,17 @@ textarea{
         object-fit: contain;
         width: auto;
     }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1080px) {
@@ -394,6 +422,16 @@ textarea{
         width: auto;
     }
 
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1030px) {
@@ -405,6 +443,16 @@ textarea{
         width: auto;
     }
 
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1093px) {
@@ -421,7 +469,16 @@ textarea{
         width: 80%;
 
     }
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
 
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1092px) {
@@ -432,6 +489,16 @@ textarea{
 
     }
 
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1058px) {
@@ -444,6 +511,16 @@ textarea{
     }
 
 
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
 }
 
 @media screen and (max-width: 1058px) {
@@ -452,6 +529,298 @@ textarea{
 
         width: 80%;
 
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 1020px) {
+
+    .cases img {
+        width: 315%;
+        height: 315%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 986px) {
+
+    .cases img {
+        width: 305%;
+        height: 305%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 986px) {
+
+    .cases img {
+        width: 295%;
+        height: 295%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+  
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+
+@media screen and (max-width: 930px) {
+
+    .cases img {
+        width: 285%;
+        height: 285%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 906px) {
+
+    .cases img {
+        width: 287%;
+        height: 287%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 895px) {
+    
+    .cases img {
+        width: 275%;
+        height: 275%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 875px) {
+
+    .cases img {
+        width: 268%;
+        height: 268%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 845px) {
+
+    .cases img {
+        width: 260%;
+        height: 260%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 827px) {
+
+    .cotacao {
+        font-size:80%;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+@media screen and (max-width: 810px) {
+
+    .cases img {
+        width: 250%;
+        height: 250%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+
+}
+
+@media screen and (max-width: 785px) {
+
+    .cases img {
+        width: 245%;
+        height: 245%;
+        object-fit: contain;
+        width: auto;
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+    }
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+        }
+}
+
+
+
+@media screen and (max-width: 780px) {
+
+    .sobre-a-empresa h2 {
+        font-size: 120%;
+        text-align: center;
+        
+    }
+
+    .sobre-a-empresa p {
+        text-align: center;
+        font-size: 32px;
+    }
+
+    .redes {
+        width: 35%;
+        
+    }
+
+    .cnhredes {
+        text-align: center;
+    }
+
+    .redes {
+        margin: 0 auto;
+    }
+
+    #um-pouco-mais {
+
+        width: 740px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .cases img {
+        width: 240%;
+        height: 240%;
+        object-fit: contain;
+        width: auto;
+    }
+}
+ 
+@media screen and (max-width: 770px) {
+
+    .sobre-a-empresa p {
+        text-align: center;
+        font-size: 28px;
     }
 
 }
